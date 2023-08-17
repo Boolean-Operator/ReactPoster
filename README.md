@@ -2,8 +2,9 @@
 
 - Created with Vite
 - Build with:
-  - React
-  - React Router
+  - React 18.2.0
+  - React Icons 4.10.1
+  - React Router 6.15.0
   - CSS Modules
   - Express (Dummy Backend)
 
